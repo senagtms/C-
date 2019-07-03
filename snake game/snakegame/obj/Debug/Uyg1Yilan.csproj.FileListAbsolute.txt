@@ -1,0 +1,13 @@
+C:\Users\SisLab\Desktop\hafta5\G4\Uyg1Yilan\Uyg1Yilan\bin\Debug\Uyg1Yilan.exe.config
+C:\Users\SisLab\Desktop\hafta5\G4\Uyg1Yilan\Uyg1Yilan\bin\Debug\Uyg1Yilan.exe
+C:\Users\SisLab\Desktop\hafta5\G4\Uyg1Yilan\Uyg1Yilan\bin\Debug\Uyg1Yilan.pdb
+C:\Users\SisLab\Desktop\hafta5\G4\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.csprojResolveAssemblyReference.cache
+C:\Users\SisLab\Desktop\hafta5\G4\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.exe
+C:\Users\SisLab\Desktop\hafta5\G4\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.pdb
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\bin\Debug\Uyg1Yilan.exe.config
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\bin\Debug\Uyg1Yilan.exe
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\bin\Debug\Uyg1Yilan.pdb
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.exe
+C:\Users\Lenovo\Desktop\ConsoleApp2\Uyg1Yilan\Uyg1Yilan\obj\Debug\Uyg1Yilan.pdb

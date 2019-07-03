@@ -1,0 +1,9 @@
+C:\Users\Bahriye\Desktop\hafta3\G3\3Tahmin\3Tahmin\bin\Debug\3Tahmin.exe.config
+C:\Users\Bahriye\Desktop\hafta3\G3\3Tahmin\3Tahmin\bin\Debug\3Tahmin.exe
+C:\Users\Bahriye\Desktop\hafta3\G3\3Tahmin\3Tahmin\bin\Debug\3Tahmin.pdb
+C:\Users\Bahriye\Desktop\hafta3\G3\3Tahmin\3Tahmin\obj\Debug\3Tahmin.csprojResolveAssemblyReference.cache
+C:\Users\Bahriye\Desktop\hafta3\G3\3Tahmin\3Tahmin\obj\Debug\3Tahmin.exe
+C:\Users\Bahriye\Desktop\hafta3\G3\3Tahmin\3Tahmin\obj\Debug\3Tahmin.pdb
+C:\Users\Bahriye\Desktop\CPII\hafta3\G3\3Tahmin\3Tahmin\bin\Debug\3Tahmin.exe.config
+C:\Users\Bahriye\Desktop\CPII\hafta3\G3\3Tahmin\3Tahmin\obj\Debug\3Tahmin.exe
+C:\Users\Bahriye\Desktop\CPII\hafta3\G3\3Tahmin\3Tahmin\obj\Debug\3Tahmin.pdb

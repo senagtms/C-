@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcYukselenHesabı.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcyukselenHesabı.Form1.resources
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcYukselenHesabı.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcYukselenHesabı.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcYukselenHesabı.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\bin\Debug\BurcYukselenHesabı.exe.config
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\bin\Debug\BurcYukselenHesabı.exe
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\bin\Debug\BurcYukselenHesabı.pdb
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcYukselenHesabı.exe
+C:\Users\Lenovo\Desktop\c#\BurcYukselenHesabı\BurcYukselenHesabı\obj\Debug\BurcYukselenHesabı.pdb
